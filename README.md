@@ -6,6 +6,9 @@ Algunos de los propósitos de este proyecto es mejorar el control de la informac
 
 Este proyecto obviamente desarrollado para el Centro Escolar Católico Alberto Masferrer, siendo principalmente beneficiarios los alumnos de Bachillerato Técnico, General y administración de esta.
 
+## Instalación
+...
+
 ## Uso de la App
 
 En este proyecto hay tres roles, el primero es el administrador. El administrador tiene el poder de agregar, eliminar o modificar a los alumnos y sus datos personales, de igual forma pasa con los maestros, también estos harán lo que son los horarios de clases de los alumnos y de los maestros. Este rol, en el mismo momento que ponga los datos de los alumnos le pondrá la sección y al maestro a las secciones donde dará clase.
@@ -15,7 +18,7 @@ El otro rol es de maestro, que este lo único que podra hacer es ingresar las no
 Y por último esta el rol de alumnos, que este solamente verá sus notas y su horario.
 
 ## Contribución
-Si a la hoa de ver nuestro código nota algún problema o algo que falte y se esencial para este proyecto, estaremos agradecidos que nos infrome mediante pull request o mediante correo bluciano658@gmail.com 
+Si a la hora de ver nuestro código nota algún problema o algo que falte y es esencial para este proyecto, estaremos agradecidos que nos informe mediante pull request o mediante correo bluciano658@gmail.com 
 
 De antemano muchas gracias por el aporte.
 
